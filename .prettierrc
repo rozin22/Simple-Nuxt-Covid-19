@@ -1,0 +1,11 @@
+{
+  "semi": false,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "trailingComma": "none",
+  "editor.formatOnSave": true,
+  "indent": [
+    2,
+    "tab"
+  ]
+}
